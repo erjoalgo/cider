@@ -1,6 +1,7 @@
 # Changelog
 
 ## master (unreleased)
+* Add an option `nrepl-prompt-to-kill-server-buffer-on-quit` to control whether killing nrepl server and buffer requires a confirmation prompt.
 
 ### New Features
 
